@@ -2,13 +2,13 @@ const galleries = [
   { id: "ch1", count: 1 },
   { id: "ch2", count: 2 },
   { id: "ch3", count: 3 },
-  { id: "ch4", count: 4 },
+  { id: "ch4", count: 5 },
   { id: "ch5", count: 1 },
   { id: "ch6", count: 3 },
   { id: "ch7", count: 2 },
   { id: "ch8", count: 2 },
   { id: "ch9", count: 1 },
-  { id: "ch10", count: 13 },
+  { id: "ch10", count: 15 },
 ];
 
 const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)")
